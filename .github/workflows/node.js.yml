@@ -31,4 +31,6 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: fbansept/ci_di:latest
+        tags: fbansept/test_ci_cd:latest
+
+  
